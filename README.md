@@ -53,8 +53,6 @@ ______________________________________________________________________
 
 npm install -D vitest
 configure vite.config file
-_______________________________________________________
-
-React testing library :- npm install --save-dev @testing-library/react
+React testing library :- npm install --save-dev @testing-library/react (if using create react app this not need )
 jest-Dom (jsdom):-  npm install --save-dev @testing-library/jest-dom
-
+______________________________________
